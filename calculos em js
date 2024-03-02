@@ -1,0 +1,21 @@
+// criar um calculo com cada uma das operações (+, -, *, /)
+
+var n1 = 10;
+var n2 = 20;
+var resultado = n1 + n2;
+alert("o resultado de n1 + n2 é " + resultado);
+
+var resultado = n1 - n2;
+alert("o resultado de n1 - n2 é " + resultado);
+
+var resultado = n1 * n2;
+alert("o resultado de n1 * n2 é " + resultado);
+
+var resultado = n1 / n2;
+alert("o resultado de n1 / n2 é " + resultado);
+
+// acrescentar um numero a si mesmo 
+// n1 += 10;   ou   n1 = n1 + 10;
+// adiciona + 10 ao valor atual de n1
+// incremento: ++  =  +1
+// decremento: --  =  -1
