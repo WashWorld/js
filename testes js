@@ -1,0 +1,25 @@
+// adicionar texto por var
+
+var endereço;
+endereço = "rua ana maria, 279";
+alert(endereço);
+
+// adicionar número por var
+
+var número;
+número = 3
+número = -12
+alert(número);
+
+// adicionar frase por var
+
+var frase;
+frase = "Olá mundo!";
+alert(frase.length); // alert(frase.length) exibe número de caracteres da frasea
+alert(frase.search("mundo")); //alert(frase.search("palavra")) exibe a posição da palavra
+
+frase.toUpperCase; // letra maiuscula
+frase.toLowerCase; // letra minúscula
+
+// prumpt é caixa de diálogo
+// alert é mensagem
